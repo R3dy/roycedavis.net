@@ -22,11 +22,11 @@ theme = "poison"
     ]
 
     # Links to your socials.  Delete any you don't need/use. 
-    github_url = "https://github.com"
-    linkedin_url = "https://linkedin.com"
-    twitter_url = "https://twitter.com"
-    discord_url = "https://discord.com"
-    youtube_url = "https://youtube.com"
+    github_url = "https://github.com/R3dy"
+    linkedin_url = "https://linkedin.com/in/roycedavis"
+    twitter_url = "https://twitter.com/r3dy__"
+    discord_url = "https://discord.gg/D5QTtWEwxZ"
+    youtube_url = "https://www.youtube.com/channel/UCi0_EWBSYdNomzAtV0nYOPA"
 
     # Hex colors for your sidebar.
     sidebar_bg_color = "#202020"            # default is #202020
