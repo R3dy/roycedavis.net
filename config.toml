@@ -1,6 +1,8 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
+paginate = 10
+pluralizelisttitles = false
 
 theme = "poison"
 
@@ -17,8 +19,9 @@ theme = "poison"
         # HasChildren:  If the directory's files should be listed.  Default is true.
         # Limit:        If the files should be listed, how many should be shown.
     menu = [
-        {Name = "About", URL = "/about/", HasChildren = false},
+        {Name = "Whoami", URL = "/about/", HasChildren = false},
         {Name = "Posts", URL = "/posts/", Pre = "Recent", HasChildren = true, Limit = 5},
+        #{Name = "Projects", URL = "/projects/", HasChildren = true, Limit = 5},
     ]
 
     # Links to your socials.  Delete any you don't need/use. 

@@ -36,6 +36,10 @@
   
  
 
+
+  
+  
+  
  
 
  
@@ -51,11 +55,11 @@
 
 
 
-<title itemprop="name">My New Hugo Site</title>
-<meta property="og:title" content=My&#32;New&#32;Hugo&#32;Site />
-<meta name="twitter:title" content=My&#32;New&#32;Hugo&#32;Site />
-<meta itemprop="name" content=My&#32;New&#32;Hugo&#32;Site />
-<meta name="application-name" content=My&#32;New&#32;Hugo&#32;Site />
+<title itemprop="name">Royce Davis - Posts</title>
+<meta property="og:title" content=Royce&#32;Davis&#32;-&#32;Posts />
+<meta name="twitter:title" content=Royce&#32;Davis&#32;-&#32;Posts />
+<meta itemprop="name" content=Royce&#32;Davis&#32;-&#32;Posts />
+<meta name="application-name" content=Royce&#32;Davis&#32;-&#32;Posts />
 <meta property="og:site_name" content="My New Hugo Site" />
 
 
@@ -65,11 +69,11 @@
 <meta name="twitter:description" content="" />
 
 
-<base href="http://example.org/404.html" />
-<link rel="canonical" href="http://example.org/404.html" itemprop="url" />
-<meta name="url" content="http://example.org/404.html" />
-<meta name="twitter:url" content="http://example.org/404.html" />
-<meta property="og:url" content="http://example.org/404.html" />
+<base href="http://example.org/posts/" />
+<link rel="canonical" href="http://example.org/posts/" itemprop="url" />
+<meta name="url" content="http://example.org/posts/" />
+<meta name="twitter:url" content="http://example.org/posts/" />
+<meta property="og:url" content="http://example.org/posts/" />
 
 
 
@@ -79,6 +83,7 @@
 
 
 <link rel="sitemap" type="application/xml" title="Sitemap" href='http://example.org/sitemap.xml' />
+<link href="http://example.org/posts/index.xml" rel="alternate" type="application/rss+xml" title="My New Hugo Site" />
 
 <meta name="robots" content="index,follow" />
 <meta name="googlebot" content="index,follow" />
@@ -97,36 +102,48 @@
 
 
 
+ 
 
-<meta property="og:type" content="website" />
-<meta name="author" content="" />
+  <link rel="first" href="/posts/" />
+  <link rel="last" href="/posts/" />
+  
+  
+
+
+<meta property="og:type" content="article" />
+<meta property="article:publisher" content="" />
+<meta property="og:article:published_time" content=1001-01-12T10:00:01Z />
+<meta property="article:published_time" content=1001-01-12T10:00:01Z />
+
+
+
+
+
 <script defer type="application/ld+json">
   {
-    {
-        "@context": "http://schema.org",
-        "@type": "Article",
-        "headline": "404 Page not found",
-        "author": {
-            "@type": "Person",
-            "name": ""
-        },
-        "datePublished": "0001-01-01",
-        "description": "",
-        "wordCount":  0 ,
-        "mainEntityOfPage": "True",
-        "dateModified": "0001-01-01",
-        "image": {
-            "@type": "imageObject",
-            "url": ""
-        },
-        "publisher": {
-            "@type": "Organization",
-            "name": "My New Hugo Site",
-            "logo": {
-            "@type": "imageObject",
-            "url": ""
-            }
-        }
+    "@context": "http://schema.org",
+    "@type": "Article",
+    "headline": "Posts",
+    "author": {
+      "@type": "Person",
+      "name": "https:\/\/github.com\/R3dy"
+    },
+    "datePublished": "0001-01-01",
+    "description": "",
+    "wordCount":  0 ,
+    "mainEntityOfPage": "True",
+    "dateModified": "0001-01-01",
+    "image": {
+      "@type": "imageObject",
+      "url": ""
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "My New Hugo Site",
+      "logo": {
+        "@type": "imageObject",
+        "url": ""
+      }
     }
   }
 </script>
@@ -333,8 +350,11 @@ powered by <a target="_blank" href="https://gohugo.io">Hugo</a> | themed with <a
 </aside>
 
             <main class="content container">
-                <h1>404: Page not found</h1>
-<p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="http://example.org/">Head back home</a> to try finding it again.</p>
+                <h1 class="title">Posts</h1>
+<ul class="entries">
+    
+</ul>
+
             </main>
             
         </div>
