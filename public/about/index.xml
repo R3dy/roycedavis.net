@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About on My New Hugo Site</title>
-    <link>http://example.org/about/</link>
+    <link>/about/</link>
     <description>Recent content in About on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>$ whois royce davis</title>
-      <link>http://example.org/about/about/</link>
+      <link>/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/about/about/</guid>
+      <guid>/about/about/</guid>
       <description>I go by many names, here are a few in no particular order:
 Hacker Trainer Author Musician Astronomer Since 2010 I&amp;rsquo;ve worked for various companies as a dedicated attacker. I&amp;rsquo;ve been a billable consultant, an independent 1099 contractor and an internal red team operator. My primary focus area has been adversarial testing against:
 Enterprise networks Cloud service providers Mobile/Web applications Physical offices Wireless infrastructure Employee Personell Throughout my career I&amp;rsquo;ve written lots of scripts and tools, some of which I&amp;rsquo;ve spoken about at confrences or written about on my blog (which I&amp;rsquo;m no longer focused on) pentestgeek.</description>
