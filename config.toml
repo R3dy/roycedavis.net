@@ -1,4 +1,4 @@
-baseURL = 'blog.roycedavis.net'
+baseURL = 'blog.roycedavis.net/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 paginate = 10
