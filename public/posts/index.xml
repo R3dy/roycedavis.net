@@ -5,6 +5,18 @@
     <link>/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Wizardry AI Gatekeeper</title>
+      <link>/posts/lakera-ai/</link>
+      <pubDate>Wed, 31 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/lakera-ai/</guid>
+      <description>Summary These are my obsevations after playing a super fun (at least in my opinion) and highly addictive set of basic AI prompt injection challenges. Challenges start off as easy as you would epxect them to and then becom incrementaly more difficult. The following are my notes, rants and discoveries while playing with an thouroughly enjoying this challenge.
+https://gandalf.lakera.ai/
+Level 1. Easy Peasy We can see the following text just below the friendly Gandalf avatar.</description>
+    </item>
+    
   </channel>
 </rss>
