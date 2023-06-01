@@ -16,23 +16,24 @@
     </item>
     
     <item>
+      <title>Personally Identifiable Information</title>
+      <link>/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>royce@hacktop:~ $ whoami royce.davis $ id uid=500(royce.davis) groups=10(realhax),20(servicenow),30(manning) $ echo $HOME /Dallas/TX I go by many names, here are a few in no particular order:
+Husband &amp;amp; Father My primary reason for being is to take care of and spend as much time as possible with my wife and my three daughters.
+TBD photo the wife approves of
+Hacker Since 2010 I&amp;rsquo;ve worked for various companies as a dedicated attacker. I&amp;rsquo;ve been a billable consultant, an independent 1099 contractor and an internal red team operator.</description>
+    </item>
+    
+    <item>
       <title>Royce Davis</title>
       <link>/whoami/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/whoami/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>whois royce davis</title>
-      <link>/about/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/about/</guid>
-      <description>I go by many names, here are a few in no particular order:
-HACKER Since 2010 I&amp;rsquo;ve worked for various companies as a dedicated attacker. I&amp;rsquo;ve been a billable consultant, an independent 1099 contractor and an internal red team operator. My primary focus area has been adversarial testing against:
-Enterprise networks Cloud service providers Mobile/Web applications Physical offices Wireless infrastructure Employee Personell Throughout my career I&amp;rsquo;ve written lots of scripts and tools, some of which I&amp;rsquo;ve spoken about at confrences or written about on my blog (which I&amp;rsquo;m no longer focused on) pentestgeek.</description>
     </item>
     
   </channel>

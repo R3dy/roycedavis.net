@@ -8,6 +8,8 @@
   </url><url>
     <loc>/projects/project1/</loc>
   </url><url>
+    <loc>/about/about/</loc>
+  </url><url>
     <loc>/posts/</loc>
   </url><url>
     <loc>/projects/</loc>
@@ -17,7 +19,5 @@
     <loc>/series/</loc>
   </url><url>
     <loc>/tags/</loc>
-  </url><url>
-    <loc>/about/about/</loc>
   </url>
 </urlset>
