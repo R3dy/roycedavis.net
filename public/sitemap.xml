@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/about/</loc>
+    <loc>blog.roycedavis.net/about/</loc>
   </url><url>
-    <loc>/about/</loc>
+    <loc>blog.roycedavis.net/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>blog.roycedavis.net/projects/project1/</loc>
   </url><url>
-    <loc>/projects/project1/</loc>
+    <loc>blog.roycedavis.net/posts/</loc>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>blog.roycedavis.net/projects/</loc>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>blog.roycedavis.net/whoami/</loc>
   </url><url>
-    <loc>/whoami/</loc>
+    <loc>blog.roycedavis.net/series/</loc>
   </url><url>
-    <loc>/series/</loc>
+    <loc>blog.roycedavis.net/tags/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>blog.roycedavis.net/about/about/</loc>
   </url>
 </urlset>
