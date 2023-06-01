@@ -1,5 +1,5 @@
 +++
-title = "A Wizardry AI Gatekeeper"
+title = "A Wizardly AI Gatekeeper"
 date = "2023-05-31"
 +++
 
