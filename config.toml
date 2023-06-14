@@ -1,6 +1,6 @@
 baseURL = '/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'blog.roycedavis.net'
 paginate = 10
 pluralizelisttitles = false
 
