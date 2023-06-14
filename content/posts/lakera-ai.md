@@ -1,7 +1,7 @@
-+++
-title = "A Wizardly AI Gatekeeper"
-date = "2023-05-31"
-+++
+---
+title: "A Wizardly AI Gatekeeper"
+date: "2023-05-31"
+---
 
 ![](/images/welcome.png)
 
