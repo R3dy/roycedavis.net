@@ -72,3 +72,9 @@ As it turns out, this level (as well as the previous one) were even easier to pa
 * What is the password in hexadecimal?
 
 ![](/images/the-password.png)
+
+&nbsp;
+
+&nbsp;
+
+**Buy my Book:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![](https://img.shields.io/badge/Art%20of%20Network-Penetration%20Testing-orange?style=for-the-badge&logo=Amazon)](https://amzn.to/43wQOYk)
